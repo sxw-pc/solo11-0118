@@ -1,0 +1,1 @@
+{"claims":[{"id":"C2","item":"I1","claimant":"Rider-A","trip":"R1","ticket":"TK1","features":["red case","silver keyring"]},{"id":"C3","item":"I1","claimant":"Rider-B","trip":"R1","ticket":"TK-FAKE","features":["red case","silver keyring"]}]}

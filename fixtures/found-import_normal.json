@@ -1,0 +1,1 @@
+{"trips":[{"id":"R1","route":"18","vehicle":"BUS-7","end_at":"2026-11-01T20:00:00+08:00"}],"boardings":[{"token":"TK1","trip":"R1","seat":"12A","holder":"Rider-A"}],"items":[{"id":"I1","trip":"R1","seat":"12A","found_at":"2026-11-01T20:10:00+08:00","features":["red case","silver keyring"]}]}
