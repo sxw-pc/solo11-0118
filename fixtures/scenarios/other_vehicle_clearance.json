@@ -1,0 +1,5 @@
+{"observations":[
+ {"id":"O-Q1-S","vehicle":"BUS-9","seat":"S","route":"22","method":"cabin_camera_continuous",
+  "observed_from":"2026-11-01T10:35:00+08:00","observed_to":"2026-11-01T11:00:00+08:00",
+  "segments":[["2026-11-01T10:35:00+08:00","2026-11-01T11:00:00+08:00"]],
+  "device":"CAM-9","witnesses":[],"attested_by":"station-supervisor","result":"empty"}]}

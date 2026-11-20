@@ -1,0 +1,5 @@
+{"observations":[
+ {"id":"O-CAM-WRONG","vehicle":"BUS-7","seat":"S","route":"18","method":"cabin_camera_continuous",
+  "observed_from":"2026-11-01T10:05:00+08:00","observed_to":"2026-11-01T10:55:00+08:00",
+  "segments":[["2026-11-01T10:05:00+08:00","2026-11-01T10:55:00+08:00"]],
+  "device":"CAM-3","witnesses":[],"attested_by":"station-supervisor","result":"occupied"}]}

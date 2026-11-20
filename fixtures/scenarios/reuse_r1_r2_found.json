@@ -1,0 +1,8 @@
+{"trips":[
+ {"id":"R1","route":"18","vehicle":"BUS-7","end_at":"2026-11-01T10:00:00+08:00"},
+ {"id":"R2","route":"18","vehicle":"BUS-7","end_at":"2026-11-01T11:00:00+08:00"}],
+ "boardings":[
+ {"token":"TK-R1-S","trip":"R1","seat":"S","holder":"P1"},
+ {"token":"TK-R2-S","trip":"R2","seat":"S","holder":"P2"}],
+ "items":[
+ {"id":"I-S","trip":"R2","seat":"S","found_at":"2026-11-01T11:10:00+08:00","features":["red case","silver keyring"]}]}
